@@ -1,0 +1,7 @@
+# ignore other non-project files
+*.pyc
+*.sh
+*.tmp
+tmp*.*
+*.png
+.ipynb_checkpoints/
